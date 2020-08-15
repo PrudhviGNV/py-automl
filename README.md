@@ -4,6 +4,7 @@ https://img.shields.io/badge/Py--AutoML-low%20ml%20code-yellowgreen
 https://img.shields.io/badge/Python-language-green
 
 [![GitHub license](https://img.shields.io/github/license/PrudhviGNV/py-automl)](https://github.com/PrudhviGNV/py-automl/blob/master/LICENCE.md)
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 
 
 
