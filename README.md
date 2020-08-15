@@ -1,7 +1,10 @@
 # Py-AutoML
 
-![AppVeyor](https://img.shields.io/appveyor/build/PrudhviGNV/py-automl)
-![APM](https://img.shields.io/apm/l/py-automl)
+https://img.shields.io/badge/Py--AutoML-low%20ml%20code-yellowgreen
+https://img.shields.io/badge/Python-language-green
+
+[![GitHub license](https://img.shields.io/github/license/PrudhviGNV/py-automl)](https://github.com/PrudhviGNV/py-automl/blob/master/LICENCE.md)
+
 
 
 
