@@ -1,5 +1,8 @@
 # Py-AutoML
 
+![AppVeyor](https://img.shields.io/appveyor/build/PrudhviGNV/py-automl)
+![APM](https://img.shields.io/apm/l/py-automl)
+
 
 
 
