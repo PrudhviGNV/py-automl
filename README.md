@@ -2,12 +2,13 @@
 
 
 [![LICENCE.md](https://img.shields.io/github/license/PrudhviGNV/py-automl)](https://github.com/PrudhviGNV/py-automl/blob/master/LICENCE.md)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PrudhviGNV/py-automl)
+[![Website prudhvignv.github.io](https://img.shields.io/website-up-down-green-red/https/naereen.github.io.svg)](https://prudhvignv.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/PrudhviGNV)
+[![PyPI version fury.io](https://badge.fury.io/py/py-automl.svg)](https://pypi.python.org/pypi/py-automl/)
 
-.. |PythonVersion| image:: https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue
-.. _PythonVersion: https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue
-https://badge.fury.io/py/py-automl.svg
-.. image:: doc/logos/scikit-learn-logo.png
-  :target: https://scikit-learn.org/
+
+
   
 
 
@@ -96,7 +97,7 @@ Y = EncodeCategorical(Y)
 
 signature is as follows :   ML(X, Y, size=0.25, *args)
 ```python
-from py-automl.ml import ML,ml, EncodeCategorical
+from pyAutoML.ml import ML,ml, EncodeCategorical
 
 import pandas as pd
 import numpy as np
@@ -577,7 +578,7 @@ nn_visualize(model,type = "graphviz")
 
 This library is so developer friendly that even we declare type with starting letters.
 ```python
-from py-automl.model import *
+from pyAutoML.model import *
 model2 = model(arch="alexNet")
 
 nn_visualize(model2,type="k")
@@ -595,9 +596,9 @@ and source code: [GITHUB](https://github.com/PrudhviGNV/py-automl)
 -------
 #Contact:
 <br/>
-[LinkedIn](www.linkedin.com/in/prudhvignv/) <br/>
-[Github](www.github.com/PrudhviGNV) <br/>
-[Instagram](www.instagram.com/prudhvi-gnv)
+[LinkedIn](https://linkedin.com/in/prudhvignv/) <br/>
+[Github](https://github.com/PrudhviGNV) <br/>
+[Instagram](https://instagram.com/prudhvi-gnv)
 
 
 
