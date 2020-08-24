@@ -3,6 +3,12 @@
 
 [![LICENCE.md](https://img.shields.io/github/license/PrudhviGNV/py-automl)](https://github.com/PrudhviGNV/py-automl/blob/master/LICENCE.md)
 
+.. |PythonVersion| image:: https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue
+.. _PythonVersion: https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue
+https://badge.fury.io/py/py-automl.svg
+.. image:: doc/logos/scikit-learn-logo.png
+  :target: https://scikit-learn.org/
+  
 
 
 
@@ -36,7 +42,6 @@ Py-AutoML consists of so many functionalities. such as
 - ### Decision Tree Classifier
 - ### Random Forest Classifier
 - ### K-Nearest Neighbors
-- ### NeuralNet Classifier
 --------------------------
 
    
@@ -68,6 +73,13 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+Importing the package
+```python
+import pyAutoML
+from pyAutoML import *
+from pyAutoML.model import *
+# like that...
+```
 Assign the variables X and Y to the desired columns and assign the variable size to the desired test_size.  
 ```python
 X = < df.features >
@@ -573,6 +585,19 @@ nn_visualize(model2,type="k")
 ```
 ### output:
 ![i3](https://user-images.githubusercontent.com/39909903/91040108-8837dd00-e5c2-11ea-87c4-a9951804d3c8.png)
+
+## This is a minimal documentation about the package. <br/>
+For more information and understanding, see examples [HERE](https://github.com/PrudhviGNV/py-automl/edit/master/examples)
+and source code: [GITHUB](https://github.com/PrudhviGNV/py-automl)
+-------
+
+## Author: [Prudhvi GNV](prudhvignv.github.io)
+-------
+#Contact:
+<br/>
+[LinkedIn](www.linkedin.com/in/prudhvignv/) <br/>
+[Github](www.github.com/PrudhviGNV) <br/>
+[Instagram](www.instagram.com/prudhvi-gnv)
 
 
 
