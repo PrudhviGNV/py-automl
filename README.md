@@ -4,8 +4,18 @@
 [![LICENCE.md](https://img.shields.io/github/license/PrudhviGNV/py-automl)](https://github.com/PrudhviGNV/py-automl/blob/master/LICENCE.md)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PrudhviGNV/py-automl)
 [![Website prudhvignv.github.io](https://img.shields.io/website-up-down-green-red/https/naereen.github.io.svg)](https://prudhvignv.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/PrudhviGNV)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/PrudhviGNV)<br/>
 [![PyPI version fury.io](https://badge.fury.io/py/py-automl.svg)](https://pypi.python.org/pypi/py-automl/)
+[![PyPI format](https://img.shields.io/pypi/format/ansicolortags.svg)](https://pypi.python.org/pypi/py-automl/)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/py-automl.svg)](https://pypi.python.org/pypi/py-automl/)
+[![PyPI status](https://img.shields.io/pypi/status/py-automl.svg)](https://pypi.python.org/pypi/py-automl/) <br/>
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/PrudhviGNV/open-source-badges/)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/PrudhviGNV/badges)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/PrudhviGNV/)
+[![ForTheBadge built-by-prudhvignv](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/PrudhviGNV/)
+
+
+
 
 
 
@@ -90,7 +100,7 @@ size = < test_size >
 ## Encoding Categorical Data 
 Encode target variable if non-numerical:
 ```python
-from py-automl import *
+from pyAutoML import *
 Y = EncodeCategorical(Y)
 ```
 ## Running py-automl
@@ -594,7 +604,7 @@ and source code: [GITHUB](https://github.com/PrudhviGNV/py-automl)
 
 ## Author: [Prudhvi GNV](prudhvignv.github.io)
 -------
-#Contact:
+# Contact:
 <br/>
 [LinkedIn](https://linkedin.com/in/prudhvignv/) <br/>
 [Github](https://github.com/PrudhviGNV) <br/>
