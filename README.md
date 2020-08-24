@@ -606,8 +606,8 @@ and source code: [GITHUB](https://github.com/PrudhviGNV/py-automl)
 ## Author: [Prudhvi GNV](prudhvignv.github.io)
 -------
 # Contact:
-<br/>
-[LinkedIn](https://linkedin.com/in/prudhvignv/) <br/>
+
+[LinkedIn](https://linkedin.com/in/prudhvignv/) 
 [Github](https://github.com/PrudhviGNV) <br/>
 [Instagram](https://instagram.com/prudhvi-gnv)
 
