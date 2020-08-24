@@ -18,12 +18,14 @@ The design and simplicity of Py-AutoML is inspired by the  two principles KISS (
 Py-AutoML is a minimalistic library which not  simplifies the machine learning tasks and also makes our work easier.
 
 Py-AutoML consists of so many functionalities. such as 
-   model.py- implementing popular neural networks such as googlenet , vgg16, simple cnn ,basic cnn, lenet5, alexnet, lstm, mlp etc..
-   checkpoint.py - consists of callbacks function which is used to store metrics 
-   utils.py - consists of some functionalities used to preprocess test images, spliting the data.
-   preprocess.py - used to preprocess image dataset such as resize, reshape, convert to greyscale, normalisation etc..
-   ml.py - allow us to implement and check metrics of popular classical machine learning models such as random forest, decision tree, svm , logistic regression and also displays metric reports of every model
-   visualize.py - allow us to visualize neural networks in pictorial and graphs form.
+-----------------
+
+   - #### model.py- implementing popular neural networks such as googlenet , vgg16, simple cnn ,basic cnn, lenet5, alexnet, lstm, mlp etc..
+   - #### checkpoint.py - consists of callbacks function which is used to store metrics 
+   - #### utils.py - consists of some functionalities used to preprocess test images, spliting the data.
+   - #### preprocess.py - used to preprocess image dataset such as resize, reshape, convert to greyscale, normalisation etc..
+   - #### ml.py - allow us to implement and check metrics of popular classical machine learning models such as random forest, decision tree, svm , logistic regression and also displays metric reports of every model
+   - #### visualize.py - allow us to visualize neural networks in pictorial and graphs form.
    
    
  # ml.py -> Implemented algorithms
@@ -521,7 +523,10 @@ now let's visualise this
 nn_visualize(model)
 ```
 By default , it returns keras visualization object
---------image
+### output:
+![i1](https://user-images.githubusercontent.com/39909903/91040097-840bbf80-e5c2-11ea-8c3d-fad294b20722.png)
+
+
 ```python
 
 from keras.models import Sequential
@@ -555,15 +560,19 @@ nn_visualize(model,type = "graphviz")
 
 ```
 ### output
-```
+![1_gTwmrLh1aYLzayMylHGIeg](https://user-images.githubusercontent.com/39909903/91041224-8242fb80-e5c4-11ea-8539-4c2c35f7bab5.jpeg)
+
+
+This library is so developer friendly that even we declare type with starting letters.
 ```python
 from py-automl.model import *
 model2 = model(arch="alexNet")
 
-nn_visualize(model2,type="graphviz")
+nn_visualize(model2,type="k")
 
 ```
----image
+### output:
+![i3](https://user-images.githubusercontent.com/39909903/91040108-8837dd00-e5c2-11ea-87c4-a9951804d3c8.png)
 
 
 
