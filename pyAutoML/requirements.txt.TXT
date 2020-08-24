@@ -1,0 +1,7 @@
+pandas
+numpy
+keras
+matplotlib
+scikit-learn
+ann_visualizer
+graphviz
