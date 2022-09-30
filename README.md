@@ -33,7 +33,7 @@ The design and simplicity of Py-AutoML is inspired by the  two principles KISS (
 
 
 # Modules
-Py-AutoML is a minimalistic library which not  simplifies the machine learning tasks and also makes our work easier.
+Py-AutoML is a minimalistic library which not only simplifies the machine learning tasks but also makes our work easier.
 
 Py-AutoML consists of so many functionalities. such as 
 -----------------
